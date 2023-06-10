@@ -1,0 +1,39 @@
+.main{
+display:flex;
+justify-content: center;
+}
+.first{
+    height: 50px;
+    width: 250px;
+    font-size: xx-large;
+    background-color: rgb(152, 89, 89);
+}
+.second{
+    height: 50px;
+    width: 250px;
+    font-size: xx-large;
+    background-color: rgb(205, 30, 30);
+}
+.third{
+    height: 50px;
+    width: 250px;
+    font-size: xx-large;
+    background-color: rgb(0, 152, 69);
+}
+.fourth{
+    height: 50px;
+    width: 250px;
+    font-size: xx-large;
+    background-color: rgb(132, 0, 152);
+}
+div {
+background-color: yellow;
+text-align: center;
+
+}
+
+body{
+    background-image: url(ELE.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
